@@ -1,0 +1,14 @@
+getfacl: Removing leading '/' from absolute path names
+# file: lustre/hadoop/test
+# owner: root
+# group: root
+user::rw-
+group::---
+group:hadoop:rw-
+mask::rw-
+other::---
+default:user::rw-
+default:group::---
+default:group:hadoop:rw-
+default:mask::rw-
+default:other::---
