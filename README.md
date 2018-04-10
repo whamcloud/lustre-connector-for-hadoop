@@ -24,4 +24,4 @@ Maven build goals:
 
 Installation:
 
-Please refer: https://wiki.hpdd.intel.com/display/SR/Installation+of+HAL+on+Apache+Hadoop
+Please refer "Installation of HAL on Apache Hadoop.md" at  https://github.com/intel-hpdd/lustre-connector-for-hadoop/blob/master/Installation%20of%20HAL%20on%20Apache%20Hadoop.md for details.
