@@ -200,7 +200,7 @@ public class LustreFsJavaImpl implements LustreFsDelegate {
     if (stripeSize < 0L) {
       stripeSize = (1024 * 1024);
     }
-    args[argIndex++] = "-s";
+    args[argIndex++] = "-S";
     args[argIndex++] = String.valueOf(stripeSize);
 
     if (stripeCount < -1) {
